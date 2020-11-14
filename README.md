@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Alt Text](https://media1.tenor.com/images/dd10eb337856d14a8640828f99dd7a2f/tenor.gif?itemid=12479111)
 
 <!--
 **KimKosit/KimKosit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
